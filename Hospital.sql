@@ -1,4 +1,4 @@
--- Active: 1735154969910@@127.0.0.1@5432@postgres
+
 '''Creating schema called 'Hospital' '''
 CREATE SCHEMA Hospital;
 
