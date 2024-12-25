@@ -1,3 +1,11 @@
+''' pre requirements 
+
+-> Install postgresql DB https://sbp.enterprisedb.com/getfile.jsp?fileid=1259337
+
+-> In VSCode install extensions sqltool and postgresql. create one database .
+
+'''
+
 '''Creating schema called 'Hospital' '''
 CREATE SCHEMA Hospital;
 
